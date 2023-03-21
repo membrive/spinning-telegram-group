@@ -1,0 +1,24 @@
+baseURL = 'https://grupo.rockfishing.es'
+languageCode = 'es'
+title = 'Grupo Spinning y Rockfishing 🎣🇪🇸'
+theme = 'learn'
+
+[params]
+description = 'Web dedicada al grupo Spinning y Rockfishing 🎣🇪🇸 de Telegram'
+themeVariant = "blue"
+landingPageURL = "/"
+landingPageName = "<i class='fab fa-telegram-plane'></i> Normas del grupo"
+disableNextPrev = true
+disableBreadcrumb = false
+
+[outputs]
+home = [ "HTML", "RSS", "JSON"]
+
+[markup]
+  [markup.goldmark]
+    [markup.goldmark.renderer]
+      unsafe = true
+  [markup.tableOfContents]
+    endLevel = 6
+    ordered = false
+    startLevel = 2
