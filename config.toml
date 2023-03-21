@@ -1,7 +1,7 @@
 baseURL = 'https://grupo.rockfishing.es'
 languageCode = 'es'
-title = 'Grupo Spinning y Rockfishing 🎣🇪🇸'
-theme = 'learn'
+title = 'Spinning y Rockfishing 🎣🇪🇸'
+theme = 'relearn'
 
 [params]
 description = 'Web dedicada al grupo Spinning y Rockfishing 🎣🇪🇸 de Telegram'
