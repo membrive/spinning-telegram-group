@@ -2,7 +2,7 @@
 title = "Enlaces útiles"
 date = 2023-03-22T12:16:46+01:00
 weight = 20
-pre = "<b>2. </b>"
+pre = "<b>2. </b> "
 chapter = false
 +++
 

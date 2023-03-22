@@ -1,6 +1,6 @@
 # spinning-telegram-group
 
-Web del grupo https://t.me/spinning_es.
+Web del grupo <https://t.me/spinning_es>.
 
 Creada con Hugo, tema Relearn.
 
