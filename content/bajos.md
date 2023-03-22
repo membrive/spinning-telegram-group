@@ -2,7 +2,7 @@
 title = "Bajos de línea"
 date = 2023-03-21T20:20:19+01:00
 weight = 10
-pre = "<b>1.</b> "
+pre = "<b>1. </b>"
 chapter = false
 tags = ["materiales"]
 +++
