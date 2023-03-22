@@ -9,7 +9,7 @@ Te damos la bienvenida al grupo de Telegram **"Spinning y Rockfishing 🎣🇪�
 
 ---
 
-## 🚨 Normas del grupo 🎣🇪🇸
+## 🚨 Normas del grupo
 
 1. 👋 **Preséntate al entrar**. Queremos conocerte, y descartar que seas un bot publicitario.
 
@@ -21,7 +21,7 @@ Te damos la bienvenida al grupo de Telegram **"Spinning y Rockfishing 🎣🇪�
 
 5. 🚫 No se permiten mensajes con contenido pornográfico, machista, homófobo, racista o xenófobo.
 
-6. 🚫 **No se permiten enlaces de afiliados** (del tipo https://s.click.aliexpress.com), ni con referidos, ni tampoco spam indiscriminado. Los que empiezan por https://a.click.aliexpress.com son válidos.
+6. 🚫 **No se permiten enlaces de afiliados** (del tipo <https://s.click.aliexpress.com>), ni con referidos, ni tampoco spam indiscriminado. Los que empiezan por <https://a.click.aliexpress.com> son válidos.
 
 7. ✅ Se permite la compraventa y recomendación de material de pesca, tanto nuevo como de segunda mano, siempre que sea con el ánimo de ayudar y no con el ánimo de hacer spam de ningún negocio concreto. *Solo para los usuarios que participan asiduamente en el grupo*.
 
@@ -30,7 +30,6 @@ Te damos la bienvenida al grupo de Telegram **"Spinning y Rockfishing 🎣🇪�
 9. 🙏 **Intenta escribir tu mensaje en una línea**. No pulses enviar antes de terminar de decir lo que quieres decir.
 
 <br />
-
 
 Además, ten en cuenta que:
 
