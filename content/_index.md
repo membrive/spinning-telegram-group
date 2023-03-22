@@ -5,7 +5,6 @@ title = "Spinning y Rockfishing 🎣🇪🇸"
 
 Te damos la bienvenida al grupo de Telegram **"Spinning y Rockfishing 🎣🇪🇸"** (<https://t.me/spinning_es>), dedicado a la **pesca deportiva con señuelos artificiales**. Aunque es público, es obligatorio cumplir algunas normas básicas para poder permanecer y participar.
 
-
 {{% notice tip %}}
 Esta página web se está elaborando en base a las conversaciones del [grupo](https://t.me/spinning_es), para uso por parte del mismo. Esto significa que **la información aquí publicada es subjetiva**, y puede no ser válida para todas las personas.
 {{% /notice %}}
