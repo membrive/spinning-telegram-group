@@ -7,7 +7,7 @@ Te damos la bienvenida al grupo de Telegram **"Spinning y Rockfishing 🎣🇪�
 
 
 {{% notice tip %}}
-Esta página web se está elaborando en base a las conversaciones del grupo, para uso por parte del mismo. Esto significa que **la información aquí publicada es subjetiva**, y puede no ser válida para todas las personas.
+Esta página web se está elaborando en base a las conversaciones del [grupo](https://t.me/spinning_es), para uso por parte del mismo. Esto significa que **la información aquí publicada es subjetiva**, y puede no ser válida para todas las personas.
 {{% /notice %}}
 
 ---
