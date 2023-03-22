@@ -3,6 +3,15 @@ languageCode = 'es'
 title = 'Spinning y Rockfishing 🎣🇪🇸'
 theme = 'relearn'
 
+defaultContentLanguage = 'es'
+disableHugoGeneratorInject = true
+copyright = "(c) 2023"
+enableInlineShortcodes = true
+enableEmoji = true
+enableRobotsTXT = true
+googleAnalytics = "G-L4WC2B5GYX"
+timeZone = "Europe/Madrid"
+
 [params]
   landingPageURL = "/"
   landingPageName = "<i class='fab fa-telegram-plane'></i> Normas del grupo"
