@@ -1,13 +1,15 @@
 +++
 archetype = "home"
-title = "Normas"
+title = "Spinning y Rockfishing 🎣🇪🇸"
 +++
 
 {{% notice tip %}}
 Te damos la bienvenida al grupo de Telegram **"Spinning y Rockfishing 🎣🇪🇸"** (<https://t.me/spinning_es>), dedicado a la **pesca deportiva con señuelos artificiales**. Aunque es público, es obligatorio cumplir algunas normas básicas para poder permanecer y participar.
 {{% /notice %}}
 
-## 🚨 Normas del grupo Spinning y Rockfishing 🎣🇪🇸
+---
+
+## 🚨 Normas del grupo 🎣🇪🇸
 
 1. 👋 **Preséntate al entrar**. Queremos conocerte, y descartar que seas un bot publicitario.
 

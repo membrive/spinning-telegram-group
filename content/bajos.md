@@ -1,7 +1,10 @@
 +++
 title = "Bajos de línea"
 date = 2023-03-21T20:20:19+01:00
-weight = 5
+weight = 10
+pre = "<b>1. </b>"
+chapter = false
+tags = ["materiales"]
 +++
 
 En esta sección se recogen las preguntas frecuentes sobre **bajos de línea**.

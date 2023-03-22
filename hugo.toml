@@ -1,0 +1,77 @@
+baseURL = 'https://grupo.rockfishing.es'
+languageCode = 'es'
+title = 'Spinning y Rockfishing 🎣🇪🇸'
+theme = 'relearn'
+
+canonifyURLs = true
+relativeURLs = true
+uglyURLs = false
+
+defaultContentLanguage = 'es'
+disableHugoGeneratorInject = true
+copyright = "(c) 2023"
+enableInlineShortcodes = true
+enableEmoji = true
+enableRobotsTXT = true
+googleAnalytics = "G-L4WC2B5GYX"
+timeZone = "Europe/Madrid"
+
+[params]
+  landingPageURL = "/"
+  landingPageName = "<i class='fab fa-telegram-plane'></i> Normas del grupo"
+  alwaysopen = false
+  editURL = "https://github.com/membrive/spinning-telegram-group/edit/main/content/"
+  author = "Fernando Membrive"
+  description = "Web dedicada al grupo Spinning y Rockfishing 🎣🇪🇸 de Telegram"
+  showVisitedLinks = false
+  disableSearch = false
+  disableSearchHiddenPages = false
+  disableSeoHiddenPages = true
+  disableTagHiddenPages = false
+  disableAssetsBusting = false
+  disableGeneratorVersion = true
+  disableInlineCopyToClipBoard = false
+  disableShortcutsTitle = false
+  disableLandingPageButton = false
+  disableLanguageSwitchingButton = true
+  disableBreadcrumb = false
+  disableToc = false
+  disableMathJax = true
+  customMathJaxURL = "https://cdn.jsdelivr.net/npm/mathjax@3/es5/tex-mml-chtml.js"
+  mathJaxInitialize = "{}"
+  disableMermaid = false
+  customMermaidURL = "https://unpkg.com/mermaid/dist/mermaid.min.js"
+  mermaidInitialize = "{ \"theme\": \"default\" }"
+  disableSwagger = false
+  customSwaggerURL = "https://unpkg.com/rapidoc/dist/rapidoc-min.js"
+  swaggerInitialize = "{ \"theme\": \"blue\", \"securityLevel\": \"loose\" }"
+  disableNextPrev = false
+  ordersectionsby = "weight"
+  themeVariant = "blue"
+  titleSeparator = "::"
+  collapsibleMenu = false
+  additionalContentLanguage = []
+  disableExplicitIndexURLs = true
+  externalLinkTarget = "_blank"
+
+[outputs]
+  home = [ "HTML", "RSS", "PRINT", "SEARCH", "SEARCHPAGE"]
+  section = ["HTML", "RSS", "PRINT"]
+  page = ["HTML", "RSS", "PRINT"]
+
+[markup]
+  [markup.goldmark]
+    [markup.goldmark.renderer]
+      unsafe = true
+  [markup.tableOfContents]
+    endLevel = 6
+    ordered = false
+    startLevel = 2
+
+
+
+[[menu.shortcuts]]
+  name = "<i class='fab fa-fw fa-github'></i> Repositorio GitHub"
+  identifier = "ds"
+  url = "https://github.com/membrive/spinning-telegram-group"
+  weight = 10
