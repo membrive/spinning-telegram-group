@@ -5,7 +5,7 @@ theme = 'relearn'
 
 canonifyURLs = true
 relativeURLs = true
-uglyURLs = false
+uglyURLs = true
 
 defaultContentLanguage = 'es'
 disableHugoGeneratorInject = true
