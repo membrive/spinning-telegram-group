@@ -4,7 +4,7 @@ title = 'Spinning y Rockfishing 🎣🇪🇸'
 theme = 'relearn'
 
 canonifyURLs = true
-relativeURLs = true
+relativeURLs = false
 uglyURLs = false
 
 defaultContentLanguage = 'es'
