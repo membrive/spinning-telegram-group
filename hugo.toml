@@ -51,7 +51,7 @@ timeZone = "Europe/Madrid"
   titleSeparator = "::"
   collapsibleMenu = false
   additionalContentLanguage = []
-  # disableExplicitIndexURLs = true
+  disableExplicitIndexURLs = true
   externalLinkTarget = "_blank"
 
 [outputs]
