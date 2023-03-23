@@ -1,10 +1,10 @@
-baseURL = 'https://grupo.rockfishing.es'
+baseURL = 'https://grupo.rockfishing.es/'
 languageCode = 'es'
 title = 'Spinning y Rockfishing 🎣🇪🇸'
 theme = 'relearn'
 
-# canonifyURLs = true
-# relativeURLs = false
+canonifyURLs = true
+relativeURLs = true
 # uglyURLs = false
 
 defaultContentLanguage = 'es'
@@ -50,7 +50,6 @@ timeZone = "Europe/Madrid"
   themeVariant = "blue"
   titleSeparator = "::"
   collapsibleMenu = false
-  additionalContentLanguage = []
   disableExplicitIndexURLs = true
   externalLinkTarget = "_blank"
 
