@@ -7,9 +7,19 @@ chapter = false
 tags = ["materiales"]
 +++
 
-En esta sección se recogen las preguntas frecuentes sobre **bajos de línea**.
+En esta página se hace una relación general sobre las líneas de pesca que se usan **bajos de línea**.
+
+## ¿Qué es el bajo de línea?
+
+El **bajo de línea** es un trozo de nylon, fluorocarbono o fluorine que se anuda al final de la línea madre del carrete (generalmente trenzado en el spinning). El bajo de línea se utiliza, principalmente, para evitar que el trenzado se rompa al rozar con las rocas, los señuelos o los peces, ya que es débil en estos casos.
+
+Cuando además se quiere **reducir la visibilidad del hilo bajo el agua**, se suele utilizar el **fluorocarbono**, el cual tiene un índice de refracción parecido al agua.
+
+En agua dulce, cuando se usan señuelos de superficie, suele preferirse el **nylon**, ya que este flota más que el fluorocarbono.
 
 <br />
+
+## Preguntas y respuestas sobre bajos de línea
 
 {{% expand title="**Para un trenzado de diámetro N. ¿Cuál es el diámetro ideal del bajo de línea?**" %}}
   Normalmente se elige el que resista lo mismo o un poco menos que el trenzado, de forma que si parte por tensión, parta por el bajo y no por el trenzado, lo cual obligaría a una reposicieon del mismo.
