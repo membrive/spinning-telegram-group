@@ -3,9 +3,9 @@ languageCode = 'es'
 title = 'Spinning y Rockfishing 🎣🇪🇸'
 theme = 'relearn'
 
-canonifyURLs = true
-relativeURLs = false
-uglyURLs = false
+# canonifyURLs = true
+# relativeURLs = false
+# uglyURLs = false
 
 defaultContentLanguage = 'es'
 disableHugoGeneratorInject = true
@@ -51,7 +51,7 @@ timeZone = "Europe/Madrid"
   titleSeparator = "::"
   collapsibleMenu = false
   additionalContentLanguage = []
-  disableExplicitIndexURLs = true
+  # disableExplicitIndexURLs = true
   externalLinkTarget = "_blank"
 
 [outputs]
